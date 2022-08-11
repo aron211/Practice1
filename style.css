@@ -66,11 +66,30 @@ button{
     text-align: center;
     background-color: rgb(195, 202, 198);
     transition-duration: 0.5s;
+    float: inline-start;
 }
 
 button:hover{
     background-color: #4CAF50; /* Green */
     color: white;
+}
+
+.test{
+  box-shadow: #4CAF50;
+}
+
+.float{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    border-color: rgb(98, 98, 221);
+    text-align: center;
+    background-color: rgb(195, 202, 198);
+    transition-duration: 0.5s;
+    position: fixed;
+    bottom: 50px;
+    right: 100px;   
+    box-shadow: rgba(158, 212, 165, 0.979) 0px 30px 30px, rgba(190, 226, 192, 0.959) 0px -12px 30px, rgba(185, 231, 186, 0.911) 0px 4px 6px, rgba(184, 243, 199, 0.932) 0px 12px 13px, rgba(25, 241, 5, 0.959) 0px -3px 5px; 
 }
 
 
