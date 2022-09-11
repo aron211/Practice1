@@ -1,12 +1,63 @@
 {
-  "posts": [
+"users": [
     {
-      "id": 1,
-      "title": "hello"
+        "id": 1,
+        "name":"Aron",
+        "lastName":"Sandoval",
+        "phone":"04126642590",
+        "email":"Aron@gmail.com",
+        "roles":"Administrador",
+     },
+     {
+        "id": 2,    
+        "name":"Key",
+        "lastName":"Diaz",
+        "phone":"04125555555",
+        "email":"Key@gmail.com",
+        "roles":"Senior",
+     },
+     {
+        "id": 3,
+        "name":"Gerson",
+        "lastName":"Fernandez",
+        "phone":"04121234567",
+        "email":"Ger@gmail.com",
+        "roles":"Violado",
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "roles": [
+      {
+        "id": 1,
+        "name":"desarrollador",
+        "status":"true",
+      },
+      {
+        "id": 2,
+        "name":"QA",
+        "status":"true",  
+      },
+      {
+        "id": 3,
+        "name":"Diseño",
+        "status":"true",  
+      }
+  ],
+  "modules": [
+      {
+        "id": 1,
+        "name":"Login",
+        "status":"true",
+      },
+      {
+        "id: 2,
+        "name":"crudUser",
+        "status":"true",  
+      },
+      {
+        "id": 3,
+        "name":"crudRol",
+        "status":"true",  
+      }
+    ]
 }
 
