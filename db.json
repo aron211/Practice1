@@ -58,6 +58,31 @@
       "name":"crudRol",
       "status":"true"
     }
+  ],
+  ,
+  
+  "RolModule":[
+    {
+      "idRolModule":1,
+      "idRol": 1,
+      "idModule": 1,
+      "name":"Login",
+      "status":"true"
+    }, 
+    {
+      "idRolModule":2,
+      "idRol": 1,
+      "idModule": 2,
+      "name":"Login",
+      "status":"true"
+    },
+    {
+      "idRolModule":3,
+      "idRol": 1,
+      "idModule": ,
+      "name":"Login",
+      "status":"true"
+    },
   ]
   
 }
