@@ -67,8 +67,7 @@
       "idModule": 1,
       "name":"Login",
       "status":"true"
-    },
-    
+    }, 
     {
       "idRolModule":2,
       "idRol": 1,
@@ -83,6 +82,6 @@
       "name":"Login",
       "status":"true"
     },
-  ],
+  ]
   
 }
