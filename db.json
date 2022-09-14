@@ -25,6 +25,33 @@
       "roles":"Violado"
     }
   ],
+  "rolesModules":[
+    {
+      "id":1,
+      "idRol":1,
+      "idModule":1
+    },
+    {
+      "id":2,
+      "idRol":1,
+      "idModule":2
+    },
+    {
+      "id":3,
+      "idRol":1,
+      "idModule":3
+    },
+    {
+      "id":4,
+      "idRol":2,
+      "idModule":1
+    },
+    {
+      "id":5,
+      "idRol":2,
+      "idModule":2
+    }
+  ],
   "roles":[
     {
       "id":1,
